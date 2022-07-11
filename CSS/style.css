@@ -1,0 +1,12 @@
+/* -----------------LOGIN PAGE CSS------------------------------- */
+.login-body {
+  font-family: Calibri, Helvetica, sans-serif;
+  background-color: rgba(255, 68, 0, 0.623);
+}
+/* ---------------------------------------------------------------- */
+.calendar-container {
+  width: 70%;
+
+  margin: 0 auto;
+  margin-top: 70px;
+}
