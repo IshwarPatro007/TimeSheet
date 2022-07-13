@@ -1,7 +1,7 @@
 /* -----------------LOGIN PAGE CSS------------------------------- */
 
 footer {
-  position: relative;
+  position: relitive; /*absolute */
   bottom: 0;
   width: 100%; /* Height of the footer */
 }
@@ -12,14 +12,14 @@ footer {
 }
 .login-body {
   font-family: Calibri, Helvetica, sans-serif;
-  background-color: rgba(255, 68, 0, 0.623);
+  background-color: rgba(255, 68, 0, 0.322);
 }
-.img {
+/* .img {
   width: 1000px;
   height: 500px;
   right: 0;
   top: 0;
-}
+} */
 /* ---------------------------------------------------------------- */
 .calendar-container {
   width: 70%;
